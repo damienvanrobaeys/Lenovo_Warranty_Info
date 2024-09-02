@@ -1,1 +1,1 @@
-# Lenovo_Warranty_Info
+# Lenovo warranty information (is expired or active)
